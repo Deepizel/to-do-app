@@ -1,0 +1,12 @@
+*{
+    margin: o;
+    padding: 0ex;
+}
+
+body{
+    background-color: purple;
+}
+
+.delete{
+    cursor: pointer;
+}
